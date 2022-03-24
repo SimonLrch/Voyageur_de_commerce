@@ -37,4 +37,6 @@ if __name__ == "__main__":
             v = Ville(x[0], x[1], x[2], x[3])
             villes.append(v)
 
+    #affichetour(villes)
+    #touraleatoire(villes)
     plusprochevoisin(villes)
